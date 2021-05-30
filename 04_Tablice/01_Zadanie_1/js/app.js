@@ -9,4 +9,7 @@ numbers.forEach(c => {
 
 var result = sum / numbers.length;
 
+console.log(`Numbers = [${numbers}]`);
+
+
 console.log(`Suma to ${sum} a średnia to ${result}`);
